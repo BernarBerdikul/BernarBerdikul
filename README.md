@@ -1,7 +1,5 @@
-### Hi there 👋 My name is Bernar
+### Hi there <img src="https://raw.githubusercontent.com/MrAnyx/MrAnyx/master/assets/hand.gif" width="25px" /> My name is Bernar
 ## I’m currently working on EPAM Systems
-
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
 
 **Software Engineer in back-end development focus with 2+ years of experience in commercial development.**
 
