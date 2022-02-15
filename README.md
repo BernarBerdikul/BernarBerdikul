@@ -37,7 +37,7 @@
 * [Telegram] https://t.me/Erhlich
 * [Email] bernar.berdikul@mail.ru
 
-![background icon](https://img2.akspic.ru/originals/7/7/4/4/6/164477-thefatrat_uletat-uletaj_podvig_anzhuli-uletayut-uletaj_jjd_remix-pesnya-3840x2160.jpg "Орк")
+![background icon](https://anitube.neko.run/thumbnail/G73STijLxrPY.png)
 
 <!--
 **BernarBerdikul/BernarBerdikul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
