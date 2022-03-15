@@ -1,5 +1,5 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MrAnyx/MrAnyx/master/assets/hand.gif" width="25px" /> My name is Bernar
-## I’m currently working on EPAM Systems
+## I’m currently working on Ylab company
 
 **Software Engineer in back-end development focus with 2+ years of experience in commercial development.**
 
