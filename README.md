@@ -1,7 +1,7 @@
 ### Hi there. My name is Bernar
 ## I’m currently working on Ylab company
 
-**Software Engineer in back-end development focus with 2+ years of experience in commercial development.**
+**Software Engineer in back-end development focus with 3+ years of experience in commercial development.**
 
 # About me
 
@@ -23,7 +23,7 @@
 * CI/CD tools: Ansible, GitHub Actions;
 * Web servers Nginx, Gunicorn, Daphne;
 * Test tools: Postman, Pytest, Unittest;
-* Payment services: Cloud Payment;
+* Payment services: Cloud Payment, YooMoney;
 * Documentation tools: Swagger, Postman;
 * Cloud services: Some experience in MS Azure;
 * Frontend frameworks: some knowledges in Next.js & React.js & Bootstrap;
