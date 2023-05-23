@@ -1,7 +1,7 @@
 ### Hi there. My name is Bernar
 ## I’m currently working on Ylab company
 
-**Software Engineer in back-end development focus with 3+ years of experience in commercial development.**
+**Software Engineer in back-end development focus with 4 years of experience in commercial development.**
 
 # About me
 
@@ -15,19 +15,20 @@
 * Self-organized and result-oriented.
 
 **Skills:**
-* Strong knowledge of Python 3 including web frameworks (Django, FastAPI, Flask);
-* Databases: MySQL, PostgreSQL, Redis;
-* Technologies & Protocols: WebSockets, HTTP1.1, HTTP2, REST, JSON, SSR, JWT, Oauth2.0;
+* Strong knowledge of Python 3 including web frameworks (Django, FastAPI, Flask, Aiohttp);
+* Databases: MySQL, PostgreSQL, Redis, ClickHouse;
+* Technologies & Protocols: WebSockets, HTTP1.1, HTTP2, REST, RPC, JSON, SSR, JWT, Oauth2.0, OpenID;
 * Search engine: Elasticsearch;
-* Container technology: Docker, Docker compose, Docker registry, Docker swarm, Azure registry;
-* CI/CD tools: Ansible, GitHub Actions;
-* Web servers Nginx, Gunicorn, Daphne;
+* Container technology: Docker, Docker-compose, Docker registry, Swarm, Azure registry;
+* CI/CD tools: Ansible, GitHub Actions, Gitlab CI/CD;
+* Web servers: Nginx, Uvicorn, Gunicorn, Daphne;
 * Test tools: Postman, Pytest, Unittest;
 * Payment services: Cloud Payment, YooMoney;
-* Documentation tools: Swagger, Postman;
-* Cloud services: Some experience in MS Azure;
+* Documentation tools: Swagger, Postman, PlantUML;
+* Cloud services: Some experience in MS Azure & AWS;
 * Frontend frameworks: some knowledges in Next.js & React.js & Bootstrap;
 * Additional: Linux, ETL pipelines, Git, FFmpeg, OpenCV, TM-bots, Firebase (FCM, Storage);
+* Logging: ELK, Prometheus, Jaeger;
 * Project methodology: Scrum, Kanban, Scrumban, Waterflow;
 * Basic knowledge in other Programming languages: Go, Java, Dart, Ruby.
 
