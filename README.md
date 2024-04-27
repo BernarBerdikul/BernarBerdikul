@@ -1,5 +1,5 @@
 ### Hi there. My name is Bernar
-## I’m currently working on Ylab company
+## I’m currently working on [BTS](https://www.erg.kz/en/enterprises/too-business-technology-services)
 
 **Software Engineer in back-end development focus with 4 years of experience in commercial development.**
 
