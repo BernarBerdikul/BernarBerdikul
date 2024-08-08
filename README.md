@@ -1,7 +1,6 @@
 ### Hi there. My name is Bernar
-## I’m currently working on [BTS](https://www.erg.kz/en/enterprises/too-business-technology-services)
 
-**Software Engineer in back-end development focus with 4 years of experience in commercial development.**
+**Software Engineer in back-end development focus with 4+ years of experience in commercial development.**
 
 # About me
 
@@ -35,23 +34,8 @@
 
 
 ### 📫 How to reach me:
-* [LinkdeIn](https://www.linkedin.com/in/bernar-berdikul-1b52201b0/)
+* [LinkdeIn](https://www.linkedin.com/in/bernar-berdikul)
 * [Telegram](https://t.me/bernar_berdicool)
 * [Email](dabeerman32215@gmail.com)
 
 ![background icon](https://anitube.neko.run/thumbnail/G73STijLxrPY.png)
-
-<!--
-**BernarBerdikul/BernarBerdikul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
