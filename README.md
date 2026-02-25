@@ -1,41 +1,31 @@
 ### Hi there. My name is Bernar
 
-**Software Engineer in back-end development focus with 4+ years of experience in commercial development.**
-
-# About me
-
-**Core competences:**
-* Database knowledge;
-* Software development;
-* Async programming;
-* Attention to Detail;
-* Team player;
-* Problem-solving skills;
-* Self-organized and result-oriented.
+Software Engineer with 6+ years of experience in backend development, API design, databases,
+system integration, and microservices architecture. Proven ability to build scalable production
+systems, optimize performance, and lead technical teams. Experienced across Python
+ecosystem (Django, FastAPI, Flask) with strong DevOps and infrastructure skills.
 
 **Skills:**
-* Strong knowledge of Python 3 including web frameworks (Django, FastAPI, Flask, Aiohttp);
-* Databases: MySQL, PostgreSQL, Redis, ClickHouse, Amazon S3;
-* Technologies & Protocols: WebSockets, HTTP, REST, RPC, JSON, SSR, JWT, Oauth2.0, OpenID;
-* Search engine: Elasticsearch;
-* Event streaming: Kafka, RabbitMQ;
-* Container technology: Docker, Docker-compose, Docker registry, Swarm, Azure registry;
-* CI/CD tools: Ansible, GitHub Actions, Gitlab CI/CD;
-* Web servers: Nginx, Uvicorn, Gunicorn, Daphne;
-* Test tools: Postman, Pytest, Unittest;
-* Payment services: Cloud Payment, YooMoney;
-* Documentation tools: Swagger, Postman, PlantUML;
-* Cloud services: Some experience in MS Azure & AWS;
-* Frontend frameworks: some pieces of knowledge in Next.js & React.js & Bootstrap;
-* Additional: Linux, ETL pipelines, Git, FFmpeg, OpenCV, TM-bots, Firebase (FCM, Storage);
-* Logging: ELK, Prometheus, Jaeger;
-* Project methodology: Scrum, Kanban, Scrumban, Waterflow;
-* Basic knowledge of other Programming languages: Go, Java, Dart, Ruby.
+* Strong knowledge of Python 3 including web frameworks (Django, FastAPI, Flask, Aiohttp, Litestar)
+* Other Programming languages: JavaScript (Nest.js), Go (Fiber), Java (Spring), Dart (Flutter), Ruby (Rails)
+* Databases: MySQL, PostgreSQL (PostGIS), Redis, Metabase, ClickHouse, Amazon S3
+* Technologies & Protocols: WebSockets, HTTP, REST, gRPC, JSON, SSR, JWT, Oauth2.0, OpenID
+* Search engine: Elasticsearch
+* Event streaming: Kafka, RabbitMQ
+* Container technology: Kubernetes, Docker, Docker-compose, Docker registry, Swarm, Azure registry
+* CI/CD tools: Ansible, GitHub Actions, Gitlab CI/CD
+* Web servers: Nginx, Uvicorn, Gunicorn, Daphne, Granian
+* Test tools: Postman, Pytest, Unittest, Allure
+* Payment services: Stripe, Cloud Payment, YooMoney
+* Documentation tools: OpenAPI, Redoc, Swagger, PlantUML
+* Cloud services: MS Azure, AWS, GCP
+* Frontend frameworks: Next.js, React.js, Bootstrap, Tailwind.css
+* Additional: Linux, ETL pipelines, Git, FFmpeg, OpenCV, TM-bots, Firebase (FCM, Storage)
+* Logging & Monitoring: ELK, Grafana, Loki, OpenTelemetry, Prometheus, Jaeger
+* Project methodology: Agile (Scrum, Kanban, Scrumban), Waterflow
 
 
 ### 📫 How to reach me:
 * [LinkdeIn](https://www.linkedin.com/in/bernar-berdikul)
 * [Telegram](https://t.me/bernar_berdicool)
-* [Email](dabeerman32215@gmail.com)
-
-![background icon](https://anitube.neko.run/thumbnail/G73STijLxrPY.png)
+* [Email](bernar.berdikul@gmail.com)
