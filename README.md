@@ -2,14 +2,14 @@
 
 Software Engineer with 6+ years of experience in backend development, API design, databases,
 system integration, and microservices architecture. Proven ability to build scalable production
-systems, optimize performance, and lead technical teams. Experienced across Python
+systems, optimize performance, and lead technical teams. Experienced across the Python
 ecosystem (Django, FastAPI, Flask) with strong DevOps and infrastructure skills.
 
 **Skills:**
-* Strong knowledge of Python 3 including web frameworks (Django, FastAPI, Flask, Aiohttp, Litestar)
+* Strong knowledge of Python 3, including web frameworks (Django, FastAPI, Flask, Aiohttp, Litestar)
 * Other Programming languages: JavaScript (Nest.js), Go (Fiber), Java (Spring), Dart (Flutter), Ruby (Rails)
 * Databases: MySQL, PostgreSQL (PostGIS), Redis, Metabase, ClickHouse, Amazon S3
-* Technologies & Protocols: WebSockets, HTTP, REST, gRPC, JSON, SSR, JWT, Oauth2.0, OpenID
+* Technologies & Protocols: Oathkeeper, ORY Kratos, Permify, WebSockets, REST, gRPC
 * Search engine: Elasticsearch
 * Event streaming: Kafka, RabbitMQ
 * Container technology: Kubernetes, Docker, Docker-compose, Docker registry, Swarm, Azure registry
